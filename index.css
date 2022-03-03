@@ -13,3 +13,7 @@ main {
 #reset {
   margin: 20px;
 }
+
+#lowError, #highError, #pleaseGuess{
+  color: red;
+}
